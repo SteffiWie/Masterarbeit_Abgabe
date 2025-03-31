@@ -24,22 +24,22 @@ The code was developed and tested on Python 3.11.11.
 
 1. Clone the repository
    ```bash
-https://github.com/SteffiWie/Masterarbeit_Abgabe.git
-```
+   https://github.com/SteffiWie/Masterarbeit_Abgabe.git  
+    ```
 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 3. Run the different toy problems.
    ```bash
-/toy_1.ipynb
-```
-```bash
-/toy_2.ipynb
-```
-```bash
-/toy_3.ipynb
-```
+    /toy_1.ipynb
+    ```
+    ```bash
+    /toy_2.ipynb
+    ```
+    ```bash
+    /toy_3.ipynb
+    ```
 
 ## Toy Problem 1
 
