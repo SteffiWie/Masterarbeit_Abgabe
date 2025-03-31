@@ -32,13 +32,13 @@ The code was developed and tested on Python 3.11.11.
     ```
 3. Run the different toy problems.
    ```bash
-    /toy_1.ipynb
+    toy_1.ipynb
     ```
     ```bash
-    /toy_2.ipynb
+    toy_2.ipynb
     ```
     ```bash
-    /toy_3.ipynb
+    toy_3.ipynb
     ```
 
 ## Toy Problem 1
