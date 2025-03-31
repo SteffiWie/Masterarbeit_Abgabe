@@ -10,6 +10,17 @@ Three regression models
   
 are identified for their suitability for algorithm selection of an time series classification algorithm that can quantify uncertainties in their performance prediction.
 
+## Quickstart - How to run the code
+
+The code was developed and tested on Python 3.11.11.
+
+1. Clone the repository
+   ```bash
+
+```
+2. Install dependencies
+4. Run the different toy problems.
+
 ## Toy Problem 1
 
 This toy problem qualitatively assess how well the selected regression models quantify aleatoric and epistemic uncertainties in the presented toy problem, and thus address the question of how well the uncertainties can be attributed to their sources.
@@ -21,3 +32,5 @@ This toy problem qualitatively assess the effects of an increase in the number o
 ## Toy Problem 3
 
 This toy problem qualitatively assess the effects of introducing one or more additional meta-features to distinguish instances on the quantified uncertainties.
+
+
