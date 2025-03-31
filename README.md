@@ -24,7 +24,7 @@ The code was developed and tested on Python 3.11.11.
 
 1. Clone the repository
    ```bash
-   https://github.com/SteffiWie/Masterarbeit_Abgabe.git  
+   git clone https://github.com/SteffiWie/Masterarbeit_Abgabe.git  
     ```
 2. Install dependencies
     ```bash
