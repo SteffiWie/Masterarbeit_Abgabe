@@ -27,9 +27,9 @@ The code was developed and tested on Python 3.11.11.
    https://github.com/SteffiWie/Masterarbeit_Abgabe.git  
     ```
 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. Run the different toy problems.
    ```bash
     /toy_1.ipynb
