@@ -20,7 +20,7 @@ are identified for their suitability for algorithm selection of an time series c
 
 ## Quickstart - How to run the code
 
-The code was developed and tested on Python 3.11.11.
+The code was developed and tested on Python 3.11.11 (currently not supportet on Python >= 3.13).
 
 1. Clone the repository
    ```bash
